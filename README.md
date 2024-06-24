@@ -7,4 +7,3 @@ I am currently an undergraduate student majoring in Computer Science and Finance
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=thdlrt)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/thdlrt?theme=light&font=Ubuntu&ext=heatmap&site=cn)
