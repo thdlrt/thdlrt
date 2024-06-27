@@ -1,4 +1,3 @@
-# Aloha! 👋
 ![Visitor Count](https://profile-counter.glitch.me/thdlrt/count.svg)
 ### About me
 I am currently an undergraduate student majoring in Computer Science and Finance at Nanjing University. I have a strong interest in game development, real-time rendering, and accelerated graphics. I am passionate about exploring the latest technologies and techniques in computer graphics to create immersive and visually stunning experiences.
